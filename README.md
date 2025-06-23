@@ -24,7 +24,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone <repository-url>
-cd python_example
+cd workmate
 ```
 
 2. Установите зависимости:
